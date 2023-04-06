@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div style={styles.container}>
       <img
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuoovVYEMl5PlyrnrmjPY_0bH_k0RaXYByiMVOWeEhWeG9wxWP2ozVw0Ab51hiQzxErpo&usqp=CAU"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuoovVYEMl5PlyrnrmjPY_0bH_k0RaXYByiMVOWeEhWeG9wxWP2ozVw0Ab51hiQzxErpo&usqp=CAU "
         alt="Profile Picture"
         style={styles.image}
       />
@@ -14,7 +14,7 @@ const About = () => {
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac metus
           sit amet arcu pellentesque bibendum. Praesent laoreet velit quis
           pharetra sollicitudin. Sed vel commodo augue. Duis ut libero a quam
-          semper euismod vel nec ante.
+          semper euismod vel nec ante test.
         </p>
       </div>
     </div>
