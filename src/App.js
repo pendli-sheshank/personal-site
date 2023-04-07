@@ -3,14 +3,14 @@ import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import ProjectsSection from "./components/Projects/Projects";
 import ContactUsSection from "./components/Contact/Contact";
-import ExperienceSection from "./components/Experience/Experience";
+import Experience from "./components/Experience/Experience";
 
 function App() {
   return (
     <>
       <Home />
       <About />
-      <ExperienceSection />
+      <Experience />
       <ProjectsSection />
       <ContactUsSection />
     </>
